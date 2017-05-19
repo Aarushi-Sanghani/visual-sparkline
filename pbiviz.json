@@ -1,0 +1,26 @@
+{
+  "visual": {
+    "name": "spark",
+    "displayName": "spark",
+    "guid": "PBI_CV_E0C757DB_57D1_4FCF_AC63_24405443D141",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.4.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [
+    "node_modules/d3/d3.min.js"
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json"
+}
